@@ -1,8 +1,6 @@
-languange: android
-jdk: oraclejdk7
+language: android
 android:
-    components:
-        - build-tools-21.1.1
-        - android-21
-        - sys-img-armeabi-v7a-android-21
-        - sys-img-x86-android-17
+  components:
+    - build-tools-20.0.0
+    - android-L
+    - sys-img-x86-android-tv-l
