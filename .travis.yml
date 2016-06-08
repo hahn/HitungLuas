@@ -5,3 +5,5 @@ android:
     - android-L
     - sys-img-armeabi-v7a-android-21
     - extra-android-support
+before_script:
+  - chmod +x gradlew
